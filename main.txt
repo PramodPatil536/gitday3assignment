@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this repo created by sandesh
 the content is added by sandesh
+=======
+this repo created by jyoti
+the content is added by jyoti
+>>>>>>> 640405fe8dffab3698f12339ce916eb7181b594f
+edited
